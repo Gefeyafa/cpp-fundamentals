@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Hola Mundo" << endl;
+    cout << "Hello World from Git!" << endl;
 }
