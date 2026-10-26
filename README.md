@@ -1,3 +1,3 @@
-# C++ Fundamentals
+## About
 
-C++ fundamentals, algorithms, problem solving, and LeetCode practice.
+This repository contains my C++ learning path, from fundamentals to algorithms, problem solving, and LeetCode practice.
