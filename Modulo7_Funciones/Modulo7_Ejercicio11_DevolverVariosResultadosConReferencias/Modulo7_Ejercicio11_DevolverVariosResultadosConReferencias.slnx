@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo7_Ejercicio11_DevolverVariosResultadosConReferencias/Modulo7_Ejercicio11_DevolverVariosResultadosConReferencias.vcxproj" />
+</Solution>

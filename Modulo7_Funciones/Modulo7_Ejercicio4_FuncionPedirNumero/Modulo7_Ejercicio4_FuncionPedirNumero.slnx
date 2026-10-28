@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo7_Ejercicio4_FuncionPedirNumero/Modulo7_Ejercicio4_FuncionPedirNumero.vcxproj" />
+</Solution>

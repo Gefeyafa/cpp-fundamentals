@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo7_Ejercicio3_FuncionConRetorno/Modulo7_Ejercicio3_FuncionConRetorno.vcxproj" />
+</Solution>
