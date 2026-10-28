@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo22_Ejercicio14_ValidParentheses/Modulo22_Ejercicio14_ValidParentheses.vcxproj" />
+</Solution>

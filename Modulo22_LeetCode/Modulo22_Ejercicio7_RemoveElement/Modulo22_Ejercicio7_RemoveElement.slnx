@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo22_Ejercicio7_RemoveElement/Modulo22_Ejercicio7_RemoveElement.vcxproj" />
+</Solution>

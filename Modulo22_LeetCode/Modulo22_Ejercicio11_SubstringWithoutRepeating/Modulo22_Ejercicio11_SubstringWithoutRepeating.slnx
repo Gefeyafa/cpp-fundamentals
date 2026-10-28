@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo22_Ejercicio11_SubstringWithoutRepeating/Modulo22_Ejercicio11_SubstringWithoutRepeating.vcxproj" />
+</Solution>

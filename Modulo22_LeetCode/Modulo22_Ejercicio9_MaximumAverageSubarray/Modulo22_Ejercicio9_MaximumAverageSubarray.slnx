@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo22_Ejercicio9_MaximumAverageSubarray/Modulo22_Ejercicio9_MaximumAverageSubarray.vcxproj" />
+</Solution>
