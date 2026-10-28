@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo12_Ejercicio6_ModificarMediantePuntero/Modulo12_Ejercicio6_ModificarMediantePuntero.vcxproj" />
+</Solution>

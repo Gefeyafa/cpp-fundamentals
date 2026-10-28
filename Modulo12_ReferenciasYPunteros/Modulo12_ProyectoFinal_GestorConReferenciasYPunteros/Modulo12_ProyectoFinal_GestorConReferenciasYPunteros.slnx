@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo12_ProyectoFinal_GestorConReferenciasYPunteros/Modulo12_ProyectoFinal_GestorConReferenciasYPunteros.vcxproj" />
+</Solution>
