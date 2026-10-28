@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo15_Ejercicio6_ParentesisBalanceados/Modulo15_Ejercicio6_ParentesisBalanceados.vcxproj" Id="c921bbb2-9ab7-4881-86cb-64853751fdc2" />
+</Solution>

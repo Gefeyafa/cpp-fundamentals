@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo15_Ejercicio13_ActualizarYEliminarPersonas/Modulo15_Ejercicio13_ActualizarYEliminarPersonas.vcxproj" />
+</Solution>

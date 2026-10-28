@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo15_Ejercicio17_DetectarDuplicados/Modulo15_Ejercicio17_DetectarDuplicados.vcxproj" Id="80b0df0f-3a20-4ee2-ae0b-1802b9771a04" />
+</Solution>

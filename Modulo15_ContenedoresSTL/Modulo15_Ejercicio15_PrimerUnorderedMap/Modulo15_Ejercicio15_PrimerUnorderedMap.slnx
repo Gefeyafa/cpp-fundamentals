@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo15_Ejercicio15_PrimerUnorderedMap/Modulo15_Ejercicio15_PrimerUnorderedMap.vcxproj" />
+</Solution>

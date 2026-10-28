@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo15_Ejercicio9_AtenderUnaCola/Modulo15_Ejercicio9_AtenderUnaCola.vcxproj" />
+</Solution>
