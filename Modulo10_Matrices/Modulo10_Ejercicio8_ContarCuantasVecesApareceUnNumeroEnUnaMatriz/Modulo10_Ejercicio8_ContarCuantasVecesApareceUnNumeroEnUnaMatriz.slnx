@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo10_Ejercicio8_ContarCuantasVecesApareceUnNumeroEnUnaMatriz/Modulo10_Ejercicio8_ContarCuantasVecesApareceUnNumeroEnUnaMatriz.vcxproj" />
+</Solution>

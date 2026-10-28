@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo10_Ejercicio7_BuscarUnNumeroEnUnaMatriz/Modulo10_Ejercicio7_BuscarUnNumeroEnUnaMatriz.vcxproj" />
+</Solution>

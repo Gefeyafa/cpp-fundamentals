@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo10_Ejercicio9_TransponerUnaMatriz/Modulo10_Ejercicio9_TransponerUnaMatriz.vcxproj" />
+</Solution>
