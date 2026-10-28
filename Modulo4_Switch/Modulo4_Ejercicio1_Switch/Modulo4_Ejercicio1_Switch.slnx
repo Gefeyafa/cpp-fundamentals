@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo4_Ejercicio1_Switch/Modulo4_Ejercicio1_Switch.vcxproj" />
+</Solution>
