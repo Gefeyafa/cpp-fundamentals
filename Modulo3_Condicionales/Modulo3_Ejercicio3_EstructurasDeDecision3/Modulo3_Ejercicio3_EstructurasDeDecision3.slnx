@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo3_Ejercicio3_EstructurasDeDecision3/Modulo3_Ejercicio3_EstructurasDeDecision3.vcxproj" />
+</Solution>
