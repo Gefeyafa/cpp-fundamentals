@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo6_Ejercicio2_Maximo/Modulo6_Ejercicio2_Maximo.vcxproj" />
+</Solution>
