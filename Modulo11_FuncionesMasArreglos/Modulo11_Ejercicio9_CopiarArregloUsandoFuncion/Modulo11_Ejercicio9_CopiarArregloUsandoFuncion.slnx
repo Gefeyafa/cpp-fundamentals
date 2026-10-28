@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo11_Ejercicio9_CopiarArregloUsandoFuncion/Modulo11_Ejercicio9_CopiarArregloUsandoFuncion.vcxproj" />
+</Solution>

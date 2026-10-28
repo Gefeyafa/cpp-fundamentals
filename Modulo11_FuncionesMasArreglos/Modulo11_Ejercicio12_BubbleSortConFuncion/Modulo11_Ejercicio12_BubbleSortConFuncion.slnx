@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo11_Ejercicio12_BubbleSortConFuncion/Modulo11_Ejercicio12_BubbleSortConFuncion.vcxproj" />
+</Solution>

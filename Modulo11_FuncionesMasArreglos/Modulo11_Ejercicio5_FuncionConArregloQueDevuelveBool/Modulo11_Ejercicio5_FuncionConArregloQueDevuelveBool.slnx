@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo11_Ejercicio5_FuncionConArregloQueDevuelveBool/Modulo11_Ejercicio5_FuncionConArregloQueDevuelveBool.vcxproj" />
+</Solution>
