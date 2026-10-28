@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo13_Ejercicio3_CompararDosPersonasPorEdad/Modulo13_Ejercicio3_CompararDosPersonasPorEdad.vcxproj" />
+</Solution>

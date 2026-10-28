@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo13_Ejercicio9_InicializacionDirecta/Modulo13_Ejercicio9_InicializacionDirecta.vcxproj" />
+</Solution>

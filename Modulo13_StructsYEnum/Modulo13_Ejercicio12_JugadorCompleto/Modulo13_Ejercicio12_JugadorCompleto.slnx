@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo13_Ejercicio12_JugadorCompleto/Modulo13_Ejercicio12_JugadorCompleto.vcxproj" />
+</Solution>
