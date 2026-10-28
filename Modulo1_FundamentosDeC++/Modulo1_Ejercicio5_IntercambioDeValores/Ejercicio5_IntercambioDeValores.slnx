@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ejercicio5_IntercambioDeValores/Ejercicio5_IntercambioDeValores.vcxproj" />
+</Solution>

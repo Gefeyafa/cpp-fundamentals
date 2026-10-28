@@ -14,3 +14,6 @@ Release/
 *.pdb
 *.ilk
 *.log
+
+# Personal course notes
+Temario*.txt

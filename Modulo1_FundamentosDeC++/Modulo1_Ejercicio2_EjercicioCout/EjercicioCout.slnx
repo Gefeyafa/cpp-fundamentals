@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="EjercicioCout/EjercicioCout.vcxproj" Id="fc6dc22b-5890-4829-98dc-3de25c2d3be1" />
+</Solution>
