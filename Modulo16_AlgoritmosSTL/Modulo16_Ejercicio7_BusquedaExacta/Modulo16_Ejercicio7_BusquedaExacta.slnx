@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo16_Ejercicio7_BusquedaExacta/Modulo16_Ejercicio7_BusquedaExacta.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo16_Ejercicio2_Reverse/Modulo16_Ejercicio2_Reverse.vcxproj" />
+</Solution>
