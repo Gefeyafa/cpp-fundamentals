@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo21_Ejercicio1_FirstNegativeIndex/Modulo21_Ejercicio1_FirstNegativeIndex.vcxproj" />
+</Solution>

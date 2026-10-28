@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo21_Ejercicio9_ValidBrackets/Modulo21_Ejercicio9_ValidBrackets.vcxproj" />
+</Solution>

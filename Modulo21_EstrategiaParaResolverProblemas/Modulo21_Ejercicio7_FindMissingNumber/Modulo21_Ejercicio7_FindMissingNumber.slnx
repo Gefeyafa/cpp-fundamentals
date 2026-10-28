@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo21_Ejercicio7_FindMissingNumber/Modulo21_Ejercicio7_FindMissingNumber.vcxproj" />
+</Solution>
