@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo17_Ejercicio7_ObjetosConst/Modulo17_Ejercicio7_ObjetosConst.vcxproj" />
+</Solution>

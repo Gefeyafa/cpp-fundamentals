@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo17_Ejercicio15_Polimorfismo/Modulo17_Ejercicio15_Polimorfismo.vcxproj" />
+</Solution>
