@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo5_Ejercicio7_CicloForTablaDeMultiplicar/Modulo5_Ejercicio7_CicloForTablaDeMultiplicar.vcxproj" />
+</Solution>
