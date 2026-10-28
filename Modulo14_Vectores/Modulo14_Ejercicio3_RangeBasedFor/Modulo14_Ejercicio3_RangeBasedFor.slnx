@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo14_Ejercicio3_RangeBasedFor/Modulo14_Ejercicio3_RangeBasedFor.vcxproj" />
+</Solution>
