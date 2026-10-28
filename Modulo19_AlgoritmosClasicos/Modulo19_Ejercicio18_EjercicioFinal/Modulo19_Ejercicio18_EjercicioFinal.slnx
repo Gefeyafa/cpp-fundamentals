@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo19_Ejercicio18_EjercicioFinal/Modulo19_Ejercicio18_EjercicioFinal.vcxproj" />
+</Solution>

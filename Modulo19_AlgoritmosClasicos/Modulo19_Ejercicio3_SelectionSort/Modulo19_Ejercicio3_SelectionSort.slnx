@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo19_Ejercicio3_SelectionSort/Modulo19_Ejercicio3_SelectionSort.vcxproj" Id="ee464171-c8f2-4f0c-8539-4456488b1867" />
+</Solution>

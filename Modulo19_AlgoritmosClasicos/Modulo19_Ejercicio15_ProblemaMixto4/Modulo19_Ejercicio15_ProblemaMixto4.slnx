@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo19_Ejercicio15_ProblemaMixto4/Modulo19_Ejercicio15_ProblemaMixto4.vcxproj" />
+</Solution>
