@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo9_Ejercicio1_CrearYAccederAUnArreglo/Modulo9_Ejercicio1_CrearYAccederAUnArreglo.vcxproj" />
+</Solution>
