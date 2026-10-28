@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo20_Ejercicio1_PrimeraFuncionRecursiva/Modulo20_Ejercicio1_PrimeraFuncionRecursiva.vcxproj" />
+</Solution>

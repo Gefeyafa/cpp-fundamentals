@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo20_Ejercicio2_CountUp/Modulo20_Ejercicio2_CountUp.vcxproj" />
+</Solution>

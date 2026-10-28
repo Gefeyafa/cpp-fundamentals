@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo20_Ejercicio9_ReverseVectorRecursively/Modulo20_Ejercicio9_ReverseVectorRecursively.vcxproj" />
+</Solution>

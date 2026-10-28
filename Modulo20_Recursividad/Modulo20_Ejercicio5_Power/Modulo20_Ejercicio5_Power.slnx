@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo20_Ejercicio5_Power/Modulo20_Ejercicio5_Power.vcxproj" />
+</Solution>
