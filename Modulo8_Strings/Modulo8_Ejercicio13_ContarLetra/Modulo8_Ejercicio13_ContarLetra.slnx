@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo8_Ejercicio13_ContarLetra/Modulo8_Ejercicio13_ContarLetra.vcxproj" />
+</Solution>

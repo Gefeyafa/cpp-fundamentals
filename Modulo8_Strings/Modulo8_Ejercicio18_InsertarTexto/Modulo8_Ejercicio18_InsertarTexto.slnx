@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo8_Ejercicio18_InsertarTexto/Modulo8_Ejercicio18_InsertarTexto.vcxproj" />
+</Solution>

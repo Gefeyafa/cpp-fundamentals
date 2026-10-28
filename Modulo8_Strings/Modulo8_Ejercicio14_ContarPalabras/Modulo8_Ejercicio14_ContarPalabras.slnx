@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Modulo8_Ejercicio14_ContarPalabras/Modulo8_Ejercicio14_ContarPalabras.vcxproj" Id="140ace43-9ae1-44f5-ba3e-8abdba58ab3e" />
+</Solution>
